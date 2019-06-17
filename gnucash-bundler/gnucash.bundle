@@ -127,10 +127,6 @@
     ${prefix}/lib/guile/*.go
   </data>
 
-  <data recurse="True">
-    ${prefix}/lib/gnucash/scm/*.go
-  </data>
-
   <data>
     ${prefix}/share/aqbanking
   </data>
